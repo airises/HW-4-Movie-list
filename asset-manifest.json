@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github.io/HW-4-Movie-list/static/css/main.8a663f59.css",
+    "main.js": "/github.io/HW-4-Movie-list/static/js/main.e250fb15.js",
+    "index.html": "/github.io/HW-4-Movie-list/index.html",
+    "main.8a663f59.css.map": "/github.io/HW-4-Movie-list/static/css/main.8a663f59.css.map",
+    "main.e250fb15.js.map": "/github.io/HW-4-Movie-list/static/js/main.e250fb15.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a663f59.css",
+    "static/js/main.e250fb15.js"
+  ]
+}
