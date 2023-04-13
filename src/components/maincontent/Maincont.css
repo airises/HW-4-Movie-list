@@ -1,0 +1,44 @@
+.div {
+  width: 50rem;
+  height: 25vh;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 30px;
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.352);
+  border: 1px solid rgba(128, 128, 128, 0.189);
+  border-radius: 10px;
+  flex-wrap: nowrap;
+}
+
+.main-conts_div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+img {
+  width: 23%;
+  height: 25vh;
+  border-bottom-left-radius: 10px;
+  border-top-left-radius: 10px;
+}
+.rating {
+  color: aliceblue;
+  background-color: rgba(255, 170, 11, 0.758);
+  text-align: center;
+  padding: 5px 13px 8px 13px;
+  border-radius: 20px;
+  font-weight: 600;
+}
+
+.btns {
+  display: flex;
+}
+#extraInfo{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

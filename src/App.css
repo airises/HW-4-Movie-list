@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    background-image: url("https://wallup.net/wp-content/uploads/2016/03/09/247911-Up_movie-sunset-balloons-house-moon-crescent_moon-clouds.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 0 auto;
+  }
+  button:focus {
+    outline: none;
+  }
